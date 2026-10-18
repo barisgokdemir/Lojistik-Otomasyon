@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+# Yerel ayarlar (bağlantı cümlesi vb.)
+appsettings.Local.json
+publish/
