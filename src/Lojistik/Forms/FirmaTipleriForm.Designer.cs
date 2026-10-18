@@ -185,7 +185,7 @@ namespace Lojistik.Forms
             this.label1.TabIndex = 85;
             this.label1.Text = "Firma Tipi ID :";
             // 
-            // firmalar
+            // FirmaTipleriForm
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.AutoScroll = true;
