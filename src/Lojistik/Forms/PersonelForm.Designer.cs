@@ -231,7 +231,7 @@ namespace Lojistik.Forms
             this.label1.TabIndex = 129;
             this.label1.Text = "Personel ID :";
             // 
-            // Personel
+            // PersonelForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;

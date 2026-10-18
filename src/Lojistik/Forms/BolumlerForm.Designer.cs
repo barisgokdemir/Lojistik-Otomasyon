@@ -221,7 +221,7 @@ namespace Lojistik.Forms
             this.label4.TabIndex = 96;
             this.label4.Text = "Bölüm ID :";
             // 
-            // Bolum
+            // BolumlerForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;

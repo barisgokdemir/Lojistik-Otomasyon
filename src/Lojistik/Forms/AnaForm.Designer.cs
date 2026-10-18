@@ -29,7 +29,7 @@ namespace Lojistik.Forms
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AnaForm));
             this.panelSideMenu = new System.Windows.Forms.Panel();
             this.btnExit = new System.Windows.Forms.Button();
             this.btnUrunler = new System.Windows.Forms.Button();
@@ -321,7 +321,7 @@ namespace Lojistik.Forms
             this.arkaPlanPicture.TabIndex = 2;
             this.arkaPlanPicture.TabStop = false;
             // 
-            // Form1
+            // AnaForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
